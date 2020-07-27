@@ -2,8 +2,6 @@
 
 Shim Jung Hyun(Mayner_) - Daedeok Software Meister high school(DSM) 2th grade/fifth-term
 
----
-
 ### 🔭 I’m currently working on ...
 저는 대덕소프트웨어마이스터고(대마고)의 5기로 올해로 2학년입니다.
 
