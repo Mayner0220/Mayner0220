@@ -22,7 +22,7 @@ School Information: http://dsmhs.djsch.kr/main.do
 - Main Email: shj030220@gmail.com
 - Secondary Email: shj030220@dsm.hs.kr
 
-### ⚡ Fun fact
-I'm a student developer!
+### ⚡ I'm skilled in
+C, R, Python, Tensorflow
 
 </details>
