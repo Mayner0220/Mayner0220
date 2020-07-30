@@ -23,6 +23,9 @@ School Information: http://dsmhs.djsch.kr/main.do
 - Secondary Email: shj030220@dsm.hs.kr
 
 ### ⚡ I'm skilled in
-C, R, Python, Tensorflow
+- C
+- R
+- Python
+- Tensorflow
 
 </details>
