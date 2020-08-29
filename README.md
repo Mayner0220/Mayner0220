@@ -17,7 +17,7 @@ School Information: http://dsmhs.djsch.kr/main.do
 - NLP
 - Computer Vision
 - Data Science & Analysis
-- Spring
+- JAVA & Spring
 
 ### 📫 How to reach me
 - Main Email: shj030220@gmail.com
