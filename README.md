@@ -26,6 +26,7 @@ School Information: http://dsmhs.djsch.kr/main.do
 ### ⚡ I'm skilled in
 - C
 - R
+- JAVA
 - Python
 - Tensorflow
 
