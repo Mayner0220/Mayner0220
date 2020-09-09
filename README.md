@@ -19,10 +19,6 @@ School Information: http://dsmhs.djsch.kr/main.do
 - Data Science & Analysis
 - JAVA & Spring
 
-### 📫 How to reach me
-- Main Email: shj030220@gmail.com
-- Secondary Email: shj030220@dsm.hs.kr
-
 ### ⚡ I'm skilled in
 - C
 - R
