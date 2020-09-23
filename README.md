@@ -1,4 +1,4 @@
-# 심정현(Mayner_) -DSM 5기
+# 심정현(Mayner_) - DSM 5기
 
 Shim Jung Hyun(Mayner_) - Daedeok Software Meister high school(DSM) 2th grade/fifth-term
 
