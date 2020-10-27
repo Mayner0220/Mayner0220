@@ -5,7 +5,7 @@ Shim Jung Hyun(Mayner_) - Daedeok Software Meister high school(DSM) 2th grade/fi
 <details>
   <summary> 더보기(To see more details)</summary>
 
-### 🔭 I’m currently working on
+### 🔭 I’m currently studying in
 I am in the second year of Daedeok Software Meister High School(DSM) as the 5th generation.
 
 School Information: http://dsmhs.djsch.kr/main.do
