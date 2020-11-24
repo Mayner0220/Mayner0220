@@ -5,15 +5,10 @@ Shim Jung Hyun(Mayner_) - Daedeok Software Meister high school(DSM) 2th grade/fi
 <details>
   <summary> 더보기(To see more details)</summary>
 
-### 🌱 I’m currently learning
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Data Science & Analysis
-- JAVA & Spring
+### Technology Stack
+https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=red&logoColor=white https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&color=blue&logoColor=white https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=java&color=orange&logoColor=white https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white https://img.shields.io/badge/Tensorflow-11B48A?style=flat-square&logo=tensorflow&color=yellow&logoColor=white
 
-### ⚡ I'm skilled in
+### I'm skilled in
 - C
 - R
 - JAVA
